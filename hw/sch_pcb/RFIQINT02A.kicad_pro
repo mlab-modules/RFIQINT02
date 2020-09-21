@@ -95,7 +95,7 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.39999999999999997,
+        "min_track_width": 0.15,
         "min_via_annulus": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.19999999999999998,
@@ -104,7 +104,12 @@
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.25
+        0.25,
+        0.15,
+        0.2,
+        0.3,
+        0.4,
+        0.5
       ],
       "via_dimensions": [
         {
@@ -356,7 +361,7 @@
   },
   "sheets": [
     [
-      "8381d866-baca-4bb2-98eb-8cdae3294acb",
+      "6eb62bc0-704f-4395-85d6-730fee708108",
       ""
     ]
   ],
