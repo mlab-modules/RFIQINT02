@@ -882,8 +882,8 @@
   (junction (at 262.89 149.86) (diameter 0) (color 0 0 0 0))
   (junction (at 268.605 149.86) (diameter 0) (color 0 0 0 0))
 
-  (no_connect (at 45.72 64.77))
   (no_connect (at 45.72 67.31))
+  (no_connect (at 45.72 64.77))
 
   (wire (pts (xy 27.94 144.78) (xy 29.845 144.78))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -1323,7 +1323,7 @@
   (wire (pts (xy 262.89 149.86) (xy 268.605 149.86))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
-  (wire (pts (xy 268.605 149.86) (xy 268.605 153.035))
+  (wire (pts (xy 268.605 149.86) (xy 268.605 153.67))
     (stroke (width 0) (type solid) (color 0 0 0 0))
   )
   (wire (pts (xy 268.605 149.86) (xy 276.86 149.86))
