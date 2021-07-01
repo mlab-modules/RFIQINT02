@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>G:\MLAB_G\Moduly_zvlast\RFIQINT02\hw\sch_pcb\RFIQINT02A.kicad_sch</source>
-    <date>17.06.2021 11:02:10</date>
+    <date>01.07.2021 6:37:08</date>
     <tool>Eeschema (5.99.0-10394-g2e15de97e0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -25,32 +25,32 @@
   </design>
   <components>
     <comp ref="C1">
-      <value>47uF/16</value>
-      <footprint>Mlab_C:TantalC_SizeC_Reflow</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984412875079b91f8867</field>
-      </fields>
-      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
-      <property name="UST_ID" value="5c70984412875079b91f8867"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6244c358-f468-4fe9-9ab6-ef3eaa2a3d58</tstamps>
-    </comp>
-    <comp ref="C2">
-      <value>47uF/6V3</value>
+      <value>100nF</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="UST_ID">5c70984812875079b91f8bbf</field>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>8d6682e1-369a-4ee2-b2bb-88caf233d045</tstamps>
+      <tstamps>0de23e42-f604-49d4-8ff3-a5803dd04551</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b50</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b50"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d785b728-e8ce-4748-b69a-1b141896f782</tstamps>
     </comp>
     <comp ref="C3">
       <value>100nF</value>
@@ -64,7 +64,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e5faa7e7-51b1-44ac-9326-9095a52d9d16</tstamps>
+      <tstamps>7ca9020f-5ecf-4cd9-9947-cec7216d7263</tstamps>
     </comp>
     <comp ref="C4">
       <value>100nF</value>
@@ -78,7 +78,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ed6912a6-8e88-4fa4-9761-ee9938a982f5</tstamps>
+      <tstamps>87725f3b-a4aa-4c89-9377-4eff0c4e27dd</tstamps>
     </comp>
     <comp ref="C5">
       <value>100nF</value>
@@ -92,7 +92,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7ca9020f-5ecf-4cd9-9947-cec7216d7263</tstamps>
+      <tstamps>e5faa7e7-51b1-44ac-9326-9095a52d9d16</tstamps>
     </comp>
     <comp ref="C6">
       <value>100nF</value>
@@ -106,7 +106,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>87725f3b-a4aa-4c89-9377-4eff0c4e27dd</tstamps>
+      <tstamps>15c6b587-f07a-4ca8-aed2-a73d2a8c2df9</tstamps>
     </comp>
     <comp ref="C7">
       <value>100nF</value>
@@ -120,7 +120,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>15c6b587-f07a-4ca8-aed2-a73d2a8c2df9</tstamps>
+      <tstamps>43fba22c-184f-46e1-80dd-4b1243e190ea</tstamps>
     </comp>
     <comp ref="C8">
       <value>100nF</value>
@@ -162,7 +162,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>43fba22c-184f-46e1-80dd-4b1243e190ea</tstamps>
+      <tstamps>ed6912a6-8e88-4fa4-9761-ee9938a982f5</tstamps>
     </comp>
     <comp ref="C11">
       <value>100nF</value>
@@ -176,7 +176,49 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
+      <tstamps>763893b1-e22e-4051-aa70-fa15e80d8109</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
       <tstamps>69511541-3e1c-4c3e-be75-05bc4332e724</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>47uF/6V3</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bbf</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbf"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d6682e1-369a-4ee2-b2bb-88caf233d045</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>47uF/16</value>
+      <footprint>Mlab_C:TantalC_SizeC_Reflow</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8867</field>
+      </fields>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <property name="UST_ID" value="5c70984412875079b91f8867"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6244c358-f468-4fe9-9ab6-ef3eaa2a3d58</tstamps>
     </comp>
     <comp ref="D1">
       <value>M4</value>
@@ -207,22 +249,30 @@
       <tstamps>5a4fe29b-cf88-43df-9893-14e295e3744f</tstamps>
     </comp>
     <comp ref="J1">
-      <value>HEADER_2x03_PARALLEL</value>
-      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
-      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <value>SATA7-67491-1030</value>
+      <footprint>Mlab_CON:SATA-7_THT_VERT_2</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a7b</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS" part="SATA7-67491-1030" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a7b"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>53dd455c-1d29-4532-af9c-24669ae6071c</tstamps>
+      <tstamps>5951745b-4187-4664-bca3-5aa4cab5179b</tstamps>
     </comp>
     <comp ref="J2">
-      <value>HEADER_2x04_PARALLEL</value>
-      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
-      <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <value>RJ45_RJHSE-5384</value>
+      <footprint>Mlab_CON:RJHSE-5384(RJ45)</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a7d</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS" part="RJ45_RJHSE-5384" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a7d"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6c6e0ddd-dcb7-4fdb-8946-4d4b6145136b</tstamps>
+      <tstamps>05964efa-52d7-4c9f-8ad1-a120a7c5a248</tstamps>
     </comp>
     <comp ref="J3">
       <value>SATA7-67491-1030</value>
@@ -248,35 +298,9 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>5951745b-4187-4664-bca3-5aa4cab5179b</tstamps>
-    </comp>
-    <comp ref="J5">
-      <value>SATA7-67491-1030</value>
-      <footprint>Mlab_CON:SATA-7_THT_VERT_2</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8a7b</field>
-      </fields>
-      <libsource lib="MLAB_CONNECTORS" part="SATA7-67491-1030" description=""/>
-      <property name="UST_ID" value="5c70984712875079b91f8a7b"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
       <tstamps>fedceef2-e605-454b-8aa8-411a421eb286</tstamps>
     </comp>
-    <comp ref="J6">
-      <value>RJ45_RJHSE-5384</value>
-      <footprint>Mlab_CON:RJHSE-5384(RJ45)</footprint>
-      <fields>
-        <field name="UST_ID">5c70984712875079b91f8a7d</field>
-      </fields>
-      <libsource lib="MLAB_CONNECTORS" part="RJ45_RJHSE-5384" description=""/>
-      <property name="UST_ID" value="5c70984712875079b91f8a7d"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>05964efa-52d7-4c9f-8ad1-a120a7c5a248</tstamps>
-    </comp>
-    <comp ref="J7">
+    <comp ref="J5">
       <value>RJ45_RJHSE-5384</value>
       <footprint>Mlab_CON:RJHSE-5384(RJ45)</footprint>
       <fields>
@@ -288,6 +312,24 @@
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>efdc61f9-b472-449c-b6e5-fe57b0309ddd</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>HEADER_2x03_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53dd455c-1d29-4532-af9c-24669ae6071c</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c6e0ddd-dcb7-4fdb-8946-4d4b6145136b</tstamps>
     </comp>
     <comp ref="L1">
       <value>BLM21PG331SN1D</value>
@@ -340,76 +382,34 @@
       <tstamps>583e7e1e-a49f-4eab-8b5f-58547eebf972</tstamps>
     </comp>
     <comp ref="R1">
-      <value>100R</value>
+      <value>1k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8977</field>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e76191fd-5332-4ff2-8db9-68cbb413fea9</tstamps>
+      <tstamps>2d622ba0-fa74-4a72-bc49-64ba50bee7e5</tstamps>
     </comp>
     <comp ref="R2">
-      <value>130R</value>
+      <value>1k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <datasheet>~</datasheet>
       <fields>
-        <field name="UST_ID">5c70984512875079b91f8979</field>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8979"/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>4cb3f1c5-9cce-4f96-8620-ca75b8a1bd2d</tstamps>
+      <tstamps>98067950-d95f-4b91-bf7a-e2fd3514b521</tstamps>
     </comp>
     <comp ref="R3">
-      <value>130R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8979</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8979"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>dfb7dd1a-7627-43eb-b83c-567051063389</tstamps>
-    </comp>
-    <comp ref="R4">
-      <value>130R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8979</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8979"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1084e988-c460-47ac-adf8-7fae8a46cda1</tstamps>
-    </comp>
-    <comp ref="R5">
-      <value>130R</value>
-      <footprint>Mlab_R:SMD-0805</footprint>
-      <datasheet>~</datasheet>
-      <fields>
-        <field name="UST_ID">5c70984512875079b91f8979</field>
-      </fields>
-      <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="UST_ID" value="5c70984512875079b91f8979"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>728201c7-a2b5-4924-a7ea-2939811ab8c6</tstamps>
-    </comp>
-    <comp ref="R6">
       <value>1k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <datasheet>~</datasheet>
@@ -423,7 +423,105 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f4f47949-5fb2-4d09-8955-c9d4c1d5f9a9</tstamps>
     </comp>
+    <comp ref="R4">
+      <value>100R</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8977</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8977"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e76191fd-5332-4ff2-8db9-68cbb413fea9</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>130R</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8979</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8979"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cb3f1c5-9cce-4f96-8620-ca75b8a1bd2d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>130R</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8979</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8979"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfb7dd1a-7627-43eb-b83c-567051063389</tstamps>
+    </comp>
     <comp ref="R7">
+      <value>130R</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8979</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8979"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1084e988-c460-47ac-adf8-7fae8a46cda1</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>130R</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8979</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8979"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>728201c7-a2b5-4924-a7ea-2939811ab8c6</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bbc622f-8240-41f5-bd64-cd396c99919e</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f898c</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f898c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RFIQINT02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcd57ea7-ae51-4cb8-b442-63bbbf2678f6</tstamps>
+    </comp>
+    <comp ref="R11">
       <value>1k</value>
       <footprint>Mlab_R:SMD-0805</footprint>
       <datasheet>~</datasheet>
@@ -440,6 +538,7 @@
     <comp ref="U1">
       <value>Si53322</value>
       <footprint>Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias</footprint>
+      <datasheet>https://www.silabs.com/documents/public/data-sheets/si5332x-datasheet.pdf</datasheet>
       <fields>
         <field name="UST_ID">5c70984712875079b91f8b82</field>
       </fields>
@@ -559,6 +658,30 @@
         <pin num="13" name="SHIELD" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="MLAB_CONNECTORS" part="RJ45_RJHSE-5384_1">
+      <fields>
+        <field name="Reference">J7</field>
+        <field name="Value">RJ45_RJHSE-5384</field>
+        <field name="Footprint">Mlab_CON:RJHSE-5384(RJ45)</field>
+        <field name="UST_ID">5c70984712875079b91f8a7d</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+        <pin num="7" name="~" type="passive"/>
+        <pin num="8" name="~" type="passive"/>
+        <pin num="9" name="D2_K" type="unspecified"/>
+        <pin num="10" name="D2_A" type="unspecified"/>
+        <pin num="11" name="D1_K" type="unspecified"/>
+        <pin num="12" name="D1_A" type="unspecified"/>
+        <pin num="13" name="SHIELD" type="passive"/>
+        <pin num="14" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="MLAB_CONNECTORS" part="SATA7-67491-1030">
       <fields>
         <field name="Reference">J</field>
@@ -653,192 +776,201 @@
   </libraries>
   <nets>
     <net code="1" name="+3V3">
+      <node ref="C13" pin="1" pintype="passive"/>
       <node ref="C2" pin="1" pintype="passive"/>
-      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="VDD" pintype="input"/>
     </net>
-    <net code="2" name="/ADC1_N">
+    <net code="2" name="+3V8">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J6" pin="3" pintype="input"/>
+      <node ref="J6" pin="4" pintype="input"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/ADC1_N">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/ADC1_P">
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/ADC2_N">
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="J2" pin="8" pintype="passive"/>
+    </net>
+    <net code="6" name="/ADC2_P">
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J2" pin="7" pintype="passive"/>
+    </net>
+    <net code="7" name="/ADC3_N">
       <node ref="J4" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="J6" pin="2" pintype="passive"/>
+      <node ref="J5" pin="2" pintype="passive"/>
     </net>
-    <net code="3" name="/ADC1_P">
+    <net code="8" name="/ADC3_P">
       <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pintype="passive"/>
     </net>
-    <net code="4" name="/ADC2_N">
+    <net code="9" name="/ADC4_N">
       <node ref="J4" pin="6" pinfunction="6" pintype="passive"/>
-      <node ref="J6" pin="8" pintype="passive"/>
+      <node ref="J5" pin="8" pintype="passive"/>
     </net>
-    <net code="5" name="/ADC2_P">
+    <net code="10" name="/ADC4_P">
       <node ref="J4" pin="5" pinfunction="5" pintype="passive"/>
-      <node ref="J6" pin="7" pintype="passive"/>
+      <node ref="J5" pin="7" pintype="passive"/>
     </net>
-    <net code="6" name="/ADC3_N">
-      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
-      <node ref="J7" pin="2" pintype="passive"/>
+    <net code="11" name="/CLKIN_N">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="7" name="/ADC3_P">
-      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="J7" pin="1" pintype="passive"/>
+    <net code="12" name="/CLKIN_P">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="8" name="/ADC4_N">
-      <node ref="J5" pin="6" pinfunction="6" pintype="passive"/>
-      <node ref="J7" pin="8" pintype="passive"/>
-    </net>
-    <net code="9" name="/ADC4_P">
-      <node ref="J5" pin="5" pinfunction="5" pintype="passive"/>
-      <node ref="J7" pin="7" pintype="passive"/>
-    </net>
-    <net code="10" name="/CLKOUT0_N">
+    <net code="13" name="/CLKOUT0_N">
       <node ref="C9" pin="2" pintype="passive"/>
-      <node ref="J6" pin="6" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
     </net>
-    <net code="11" name="/CLKOUT0_P">
+    <net code="14" name="/CLKOUT0_P">
       <node ref="C8" pin="2" pintype="passive"/>
-      <node ref="J6" pin="3" pintype="passive"/>
+      <node ref="J2" pin="6" pintype="passive"/>
     </net>
-    <net code="12" name="/CLKOUT1_N">
-      <node ref="C7" pin="2" pintype="passive"/>
-      <node ref="J7" pin="6" pintype="passive"/>
-    </net>
-    <net code="13" name="/CLKOUT1_P">
+    <net code="15" name="/CLKOUT1_N">
       <node ref="C6" pin="2" pintype="passive"/>
-      <node ref="J7" pin="3" pintype="passive"/>
+      <node ref="J5" pin="3" pintype="passive"/>
     </net>
-    <net code="14" name="GND">
-      <node ref="C1" pin="2" pintype="passive"/>
+    <net code="16" name="/CLKOUT1_P">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J5" pin="6" pintype="passive"/>
+    </net>
+    <net code="17" name="/CLK_N">
       <node ref="C10" pin="2" pintype="passive"/>
-      <node ref="C11" pin="2" pintype="passive"/>
-      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="CLK0b" pintype="input"/>
+    </net>
+    <net code="18" name="/CLK_P">
       <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="CLK0" pintype="input"/>
+    </net>
+    <net code="19" name="/Q0_N">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="Q0b" pintype="input"/>
+    </net>
+    <net code="20" name="/Q0_P">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="Q0" pintype="input"/>
+    </net>
+    <net code="21" name="/Q1_N">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="Q1b" pintype="input"/>
+    </net>
+    <net code="22" name="/Q1_P">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="Q1" pintype="input"/>
+    </net>
+    <net code="23" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J1" pin="1" pintype="input"/>
-      <node ref="J1" pin="2" pintype="input"/>
-      <node ref="J1" pin="5" pintype="input"/>
-      <node ref="J1" pin="6" pintype="input"/>
-      <node ref="J2" pin="1" pintype="input"/>
-      <node ref="J2" pin="2" pintype="input"/>
-      <node ref="J2" pin="7" pintype="input"/>
-      <node ref="J2" pin="8" pintype="input"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="D1_K" pintype="unspecified"/>
+      <node ref="J2" pin="5" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="D2_K" pintype="unspecified"/>
       <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="J3" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="J3" pin="7" pinfunction="7" pintype="passive"/>
       <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="J4" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="J4" pin="7" pinfunction="7" pintype="passive"/>
-      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J5" pin="4" pinfunction="4" pintype="passive"/>
-      <node ref="J5" pin="7" pinfunction="7" pintype="passive"/>
-      <node ref="J6" pin="5" pintype="passive"/>
-      <node ref="J7" pin="5" pintype="passive"/>
+      <node ref="J5" pin="11" pinfunction="D1_K" pintype="unspecified"/>
+      <node ref="J5" pin="5" pintype="passive"/>
+      <node ref="J5" pin="9" pinfunction="D2_K" pintype="unspecified"/>
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="J6" pin="2" pintype="input"/>
+      <node ref="J6" pin="5" pintype="input"/>
+      <node ref="J6" pin="6" pintype="input"/>
+      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
+      <node ref="J7" pin="7" pintype="input"/>
+      <node ref="J7" pin="8" pintype="input"/>
       <node ref="M1" pin="1" pintype="input"/>
       <node ref="M2" pin="1" pintype="input"/>
       <node ref="M3" pin="1" pintype="input"/>
       <node ref="M4" pin="1" pintype="input"/>
-      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
-      <node ref="R4" pin="2" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="GND" pintype="input"/>
       <node ref="U1" pin="17" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="15" name="Net-(C3-Pad1)">
-      <node ref="C3" pin="1" pintype="passive"/>
-      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
-    </net>
-    <net code="16" name="Net-(C3-Pad2)">
-      <node ref="C3" pin="2" pintype="passive"/>
-      <node ref="R1" pin="1" pintype="passive"/>
-      <node ref="U1" pin="6" pinfunction="CLK0" pintype="input"/>
-    </net>
-    <net code="17" name="Net-(C4-Pad1)">
-      <node ref="C4" pin="1" pintype="passive"/>
-      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="18" name="Net-(C4-Pad2)">
-      <node ref="C4" pin="2" pintype="passive"/>
-      <node ref="R1" pin="2" pintype="passive"/>
-      <node ref="U1" pin="7" pinfunction="CLK0b" pintype="input"/>
-    </net>
-    <net code="19" name="Net-(C6-Pad1)">
-      <node ref="C6" pin="1" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
-      <node ref="U1" pin="9" pinfunction="Q0" pintype="input"/>
-    </net>
-    <net code="20" name="Net-(C7-Pad1)">
+    <net code="24" name="Net-(C7-Pad1)">
       <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="SHIELD" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
-      <node ref="U1" pin="10" pinfunction="Q0b" pintype="input"/>
     </net>
-    <net code="21" name="Net-(C8-Pad1)">
-      <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="R4" pin="1" pintype="passive"/>
-      <node ref="U1" pin="11" pinfunction="Q1" pintype="input"/>
+    <net code="25" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J5" pin="14" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
     </net>
-    <net code="22" name="Net-(C9-Pad1)">
-      <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="R5" pin="1" pintype="passive"/>
-      <node ref="U1" pin="12" pinfunction="Q1b" pintype="input"/>
+    <net code="26" name="Net-(J2-Pad10)">
+      <node ref="J2" pin="10" pinfunction="D2_A" pintype="unspecified"/>
+      <node ref="R1" pin="1" pintype="passive"/>
     </net>
-    <net code="23" name="Net-(C10-Pad1)">
-      <node ref="C10" pin="1" pintype="passive"/>
-      <node ref="J6" pin="13" pinfunction="SHIELD" pintype="passive"/>
-      <node ref="R6" pin="1" pintype="passive"/>
+    <net code="27" name="Net-(J2-Pad12)">
+      <node ref="J2" pin="12" pinfunction="D1_A" pintype="unspecified"/>
+      <node ref="R2" pin="2" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(C11-Pad1)">
-      <node ref="C11" pin="1" pintype="passive"/>
-      <node ref="J7" pin="13" pinfunction="SHIELD" pintype="passive"/>
-      <node ref="R7" pin="1" pintype="passive"/>
+    <net code="28" name="Net-(J5-Pad10)">
+      <node ref="J5" pin="10" pinfunction="D2_A" pintype="unspecified"/>
+      <node ref="R9" pin="1" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(D1-Pad1)">
-      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J1" pin="3" pintype="input"/>
-      <node ref="J1" pin="4" pintype="input"/>
-      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+    <net code="29" name="Net-(J5-Pad12)">
+      <node ref="J5" pin="12" pinfunction="D1_A" pintype="unspecified"/>
+      <node ref="R10" pin="2" pintype="passive"/>
     </net>
-    <net code="26" name="VCC">
-      <node ref="C1" pin="1" pintype="passive"/>
+    <net code="30" name="VCC">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J2" pin="3" pintype="input"/>
-      <node ref="J2" pin="4" pintype="input"/>
-      <node ref="J2" pin="5" pintype="input"/>
-      <node ref="J2" pin="6" pintype="input"/>
-      <node ref="J6" pin="4" pintype="passive"/>
-      <node ref="J7" pin="4" pintype="passive"/>
+      <node ref="J2" pin="4" pintype="passive"/>
+      <node ref="J5" pin="4" pintype="passive"/>
+      <node ref="J7" pin="3" pintype="input"/>
+      <node ref="J7" pin="4" pintype="input"/>
+      <node ref="J7" pin="5" pintype="input"/>
+      <node ref="J7" pin="6" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
     </net>
-    <net code="27" name="unconnected-(J3-Pad5)">
+    <net code="31" name="unconnected-(J3-Pad5)">
       <node ref="J3" pin="5" pinfunction="5" pintype="passive+no_connect"/>
     </net>
-    <net code="28" name="unconnected-(J3-Pad6)">
+    <net code="32" name="unconnected-(J3-Pad6)">
       <node ref="J3" pin="6" pinfunction="6" pintype="passive+no_connect"/>
     </net>
-    <net code="29" name="unconnected-(J6-Pad9)">
-      <node ref="J6" pin="9" pinfunction="D2_K" pintype="unspecified"/>
-    </net>
-    <net code="30" name="unconnected-(J6-Pad10)">
-      <node ref="J6" pin="10" pinfunction="D2_A" pintype="unspecified"/>
-    </net>
-    <net code="31" name="unconnected-(J6-Pad11)">
-      <node ref="J6" pin="11" pinfunction="D1_K" pintype="unspecified"/>
-    </net>
-    <net code="32" name="unconnected-(J6-Pad12)">
-      <node ref="J6" pin="12" pinfunction="D1_A" pintype="unspecified"/>
-    </net>
-    <net code="33" name="unconnected-(J7-Pad9)">
-      <node ref="J7" pin="9" pinfunction="D2_K" pintype="unspecified"/>
-    </net>
-    <net code="34" name="unconnected-(J7-Pad10)">
-      <node ref="J7" pin="10" pinfunction="D2_A" pintype="unspecified"/>
-    </net>
-    <net code="35" name="unconnected-(J7-Pad11)">
-      <node ref="J7" pin="11" pinfunction="D1_K" pintype="unspecified"/>
-    </net>
-    <net code="36" name="unconnected-(J7-Pad12)">
-      <node ref="J7" pin="12" pinfunction="D1_A" pintype="unspecified"/>
+    <net code="33" name="unconnected-(J5-Pad13)">
+      <node ref="J5" pin="13" pinfunction="SHIELD" pintype="passive+no_connect"/>
     </net>
   </nets>
 </export>
