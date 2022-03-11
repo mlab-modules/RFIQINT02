@@ -12,4 +12,4 @@
 | Interface | RJ45 | CAT 7/A cable is expected |
 | Operating and storage temperature | -20 - +30°C |  |
 | Operational input voltage for Antenna | 9 - 12 V |  |
-| Operational input voltage  | 3.3-3.6 V | Power for LO buffer |
+| Operational input voltage  | 3.3-3.6 V | 130 mA for LO buffer core |
