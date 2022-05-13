@@ -1,7 +1,7 @@
-# RFIQINT02A -  RF signal I/Q interface
+# RFIQINT02B -  RF signal I/Q interface
 
 
-![RFIQINT02A PCB render](doc/src/img/RFIQINT02A_PCB_render.png)
+![RFIQINT02B PCB render](doc/src/img/RFIQINT02B_big_top.jpg)
 
 
 ## Parameters
