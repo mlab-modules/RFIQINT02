@@ -20,4 +20,11 @@ mod_scheme: doc/gen/RFIQINT02B-schematic.pdf
 tags:
 - iq-signal
 - iq-stream
+- mlab
+- mlab-module
+- kicad
+- kicad-pcb
+- kicad-project
+- mlab-kicad
+- pcb
 title: RFIQINT02
