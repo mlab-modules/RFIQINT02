@@ -10,9 +10,9 @@ image: doc/src/img/RFIQINT02B_big_bot.jpg
 images:
 - doc/src/img/RFIQINT02B_big_bot.jpg
 - doc/src/img/RFIQINT02B_big_top.jpg
-- doc/gen/img/RFIQINT02B-bottom.png
-- doc/gen/img/RFIQINT02B-top.png
 - doc/src/img/RFIQINT02A_PCB_render.png
+- doc/gen/img/RFIQINT02B-top.png
+- doc/gen/img/RFIQINT02B-bottom.png
 - doc/gen/RFIQINT02B-schematic.svg
 issues: 1
 mark: 50
