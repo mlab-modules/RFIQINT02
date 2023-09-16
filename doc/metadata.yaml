@@ -17,7 +17,7 @@ images:
 issues: 1
 mark: 50
 mod_scheme: doc/gen/RFIQINT02B-schematic.pdf
-status: 0
+status: 2
 tags:
 - iq-signal
 - iq-stream
