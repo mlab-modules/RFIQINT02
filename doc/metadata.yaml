@@ -8,11 +8,11 @@ github_url: https://github.com/mlab-modules/RFIQINT02
 homepage: false
 image_title: doc/src/img/RFIQINT02B_big_bot.jpg
 images:
-- doc/src/img/RFIQINT02B_big_bot.jpg
 - doc/src/img/RFIQINT02B_big_top.jpg
+- doc/src/img/RFIQINT02B_big_bot.jpg
 - doc/src/img/RFIQINT02A_PCB_render.png
-- doc/gen/img/RFIQINT02B-bottom.png
 - doc/gen/img/RFIQINT02B-top.png
+- doc/gen/img/RFIQINT02B-bottom.png
 - doc/gen/RFIQINT02B-schematic.svg
 issues: 1
 mark: 50
@@ -28,4 +28,4 @@ tags:
 - mlab-kicad
 - pcb
 title: RFIQINT02
-updated: '2023-09-11T00:41:09.119728+00:00'
+updated: '2023-09-16T16:04:41.599204+00:00'
