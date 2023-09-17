@@ -3,6 +3,7 @@ github_branch: RFIQINT02B
 github_branches:
 - RFIQINT02A
 - RFIQINT02B
+github_description: ' RF signal I/Q interface'
 github_repo: RFIQINT02
 github_url: https://github.com/mlab-modules/RFIQINT02
 homepage: false
@@ -29,4 +30,4 @@ tags:
 - mlab-kicad
 - pcb
 title: RFIQINT02
-updated: '2023-09-17T07:17:15.756684+00:00'
+updated: '2023-09-17T11:30:42.606356+00:00'
