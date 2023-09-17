@@ -6,7 +6,7 @@ github_branches:
 github_repo: RFIQINT02
 github_url: https://github.com/mlab-modules/RFIQINT02
 homepage: false
-image_title: doc/src/img/RFIQINT02B_big_bot.jpg
+image_title: doc/src/img/RFIQINT02B_big_top.jpg
 images:
 - doc/src/img/RFIQINT02B_big_top.jpg
 - doc/src/img/RFIQINT02B_big_bot.jpg
